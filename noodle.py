@@ -14,3 +14,4 @@ while "yes":
 
     else:
         print("awwwww maybe next time.Have a good day " + name + "!")
+        #OKAY i think i got it
