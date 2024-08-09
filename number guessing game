@@ -1,0 +1,7 @@
+# ask if you would like to play a number gussing game
+# yes = easy 1-10 med 1-50 hard 1-100
+#depending on the difficulty pick a random number
+#ask whats there guess
+#if the guess is above/below the right num tell them if they are too high/low
+#ca add in a limited amount of tries on med and hard
+#ask to play again 
