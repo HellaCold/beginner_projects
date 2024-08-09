@@ -5,11 +5,8 @@ print("Nice to meet ya! " + name )
 response = input("Would you like to play a number guessing game with me? \nyes or no? ").strip().lower()
 
 
-while "yes":
-    if response == "yes":
-        diff = input("THAT'S GREAT! \nok ok \nWould you like to be \n1.Easy \n2.Kinda Easy \n3.Hard \n? ")
-        if diff == "1":
-            print("you really going to put 1 instead of typing out easy?")
+if response == "yes":
+    guess_1 = input("Awesome ill start off easy.\nI'm thinking of a number from 1-10.\What do you thin it is? ")
 
 
     else:
